@@ -2,11 +2,18 @@
 
 #### Track Your Job Search
 
-Project in Action - [Jobify](https://www.jobify.live/)
+Project in Action - [Jobify](https://jobify-mern-app.onrender.com)
 
-#### Support
+![project image](jobify-landing.png)
 
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+- tools - react, node, express, mongo, JWT
+
+- Best place to find online jobs that suits your skill
+- Search and Filter jobs, see applied job status
+- See trending monthly application chart
+- Employer can create, manage jobs
+
+
 
 #### Run The App Locally
 
@@ -23,6 +30,7 @@ npm start
 
 - visit url http://localhost:3000/
 
+### create this app from scratch
 #### Setup React App
 
 - create <b>client</b> folder
